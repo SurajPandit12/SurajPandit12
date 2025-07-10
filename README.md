@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://i.imgur.com/a/ENt4uQU.jpg" alt="Suraj Pandit" width="750" style="border-radius: 50%; border: 4px solid #e8932e; box-shadow: 0 4px 8px rgba(0,0,0,0.2);"/>
+  <img src="https://i.imgur.com/cQmMYYr.jpg" alt="Suraj Pandit" width="750" style="border-radius: 50%; border: 4px solid #e8932e; box-shadow: 0 4px 8px rgba(0,0,0,0.2);"/>
 
   <h1>Suraj Pandit</h1>
   <h3>JavaScript | Next.js | React |</h3>
