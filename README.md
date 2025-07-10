@@ -1,15 +1,15 @@
 <div align="center">
-  <img src="https://i.imgur.com/aqqZaQU.jpg" alt="Suraj Pandit" width="750" style="border-radius: 50%; border: 4px solid #e8932e; box-shadow: 0 4px 8px rgba(0,0,0,0.2);"/>
+  <img src="https://i.imgur.com/ENt4uQU.jpg" alt="Suraj Pandit" width="750" style="border-radius: 50%; border: 4px solid #e8932e; box-shadow: 0 4px 8px rgba(0,0,0,0.2);"/>
 
   <h1>Suraj Pandit</h1>
-  <h3>JavaScript | Next.js | React | Tailwind Developer</h3>
+  <h3>JavaScript | Next.js | React |</h3>
   
   <p>
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=E8932E&center=true&width=500&lines=23+years+old+developer;Next.js+%7C+React+%7C+Tailwind+Expert;Clean+UI+advocate;Open+Source+Learner" alt="Typing animation" />
   </p>
 
   <p align="center">
-    <a href="https://www.linkedin.com/in/suraj-pandit/" target="_blank">
+    <a href="https://www.linkedin.com/in/suraj-pandit-0aa093333/" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
     </a>
     <a href="mailto:my.surajpandit@gmail.com">
@@ -23,7 +23,7 @@
 ## 👋 About Me
 
 Hey there!  
-I'm **Suraj Pandit**, a 23-year-old passionate web developer who loves building beautiful and scalable web apps using JavaScript, Next.js, React, and Tailwind CSS. I thrive on clean UI, robust code, and learning new tech every day.
+I'm **Suraj Pandit**, a passionate web developer who loves building beautiful and scalable web apps using JavaScript, Next.js, React, and Tailwind CSS. I thrive on clean UI, robust code, and learning new tech every day.
 
 - 🧑‍💻 Always shipping new ideas and features
 - 🚀 Fast learner and Open Source contributor
@@ -46,7 +46,6 @@ I'm **Suraj Pandit**, a 23-year-old passionate web developer who loves building 
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
 **DevOps & Tools:**  
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
@@ -64,8 +63,6 @@ A fast, responsive, and modern portfolio built with Next.js, React, and Tailwind
 - SSR for blazing performance
 - Fully responsive
 
-[![View Project](https://img.shields.io/badge/View_Project-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://github.com/my.surajpandit/portfolio)
-
 ---
 
 ## 📊 GitHub Analytics
@@ -82,11 +79,6 @@ A fast, responsive, and modern portfolio built with Next.js, React, and Tailwind
 ---
 
 ## 📝 Latest Blog Posts
-<!-- BLOG-POST-LIST:START -->
-- [Why I Love Tailwind CSS](https://example.com)
-- [Making React UIs Pop: Tips & Tricks](https://example.com)
-<!-- BLOG-POST-LIST:END -->
-
 ---
 
 ## 🏆 GitHub Achievements
@@ -98,7 +90,7 @@ A fast, responsive, and modern portfolio built with Next.js, React, and Tailwind
 ## 🤝 Let's Connect
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/suraj-pandit/" target="_blank">
+  <a href="https://www.linkedin.com/in/suraj-pandit-0aa093333/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="mailto:my.surajpandit@gmail.com">
