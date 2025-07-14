@@ -1,11 +1,11 @@
-<div align="center">
+p<div align="center">
   <img src="https://i.imgur.com/cQmMYYr.jpg" alt="Suraj Pandit" width="750" style="border-radius: 50%; border: 4px solid #e8932e; box-shadow: 0 4px 8px rgba(0,0,0,0.2);"/>
 
   <h1>Suraj Pandit</h1>
   <h3>JavaScript | Next.js | React |</h3>
   
   <p>
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=E8932E&center=true&width=500&lines=Learning;Next.js+%7C+React+%7C+Tailwind+Expert;Clean+UI+advocate;Open+Source+Learner" alt="Typing animation" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=E8932E&center=true&width=500&lines=Learning;Next.js+%7C+React+%7C+Tailwind;Clean+UI+advocate;Open+Source+Learner" alt="Typing animation" />
   </p>
 
   <p align="center">
