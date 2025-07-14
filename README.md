@@ -5,7 +5,7 @@
   <h3>JavaScript | Next.js | React |</h3>
   
   <p>
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=E8932E&center=true&width=500&lines=23+years+old+developer;Next.js+%7C+React+%7C+Tailwind+Expert;Clean+UI+advocate;Open+Source+Learner" alt="Typing animation" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=E8932E&center=true&width=500&lines=Learning;Next.js+%7C+React+%7C+Tailwind+Expert;Clean+UI+advocate;Open+Source+Learner" alt="Typing animation" />
   </p>
 
   <p align="center">
