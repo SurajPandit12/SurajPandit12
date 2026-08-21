@@ -2,7 +2,7 @@ p<div align="center">
   <img src="https://i.imgur.com/cQmMYYr.jpg" alt="Suraj Pandit" width="750" style="border-radius: 50%; border: 4px solid #e8932e; box-shadow: 0 4px 8px rgba(0,0,0,0.2);"/>
 
   <h1>Suraj Pandit</h1>
-  <h3> | Next.js Developer | Data Analyst</h3>
+  <h3> | Next.js Developer | Data Analyst |</h3>
   
   <p>
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=E8932E&center=true&width=500&lines=Learning;Next.js+%7C+React+%7C+Tailwind;Clean+UI+advocate;Open+Source+Learner" alt="Typing animation" />
@@ -23,7 +23,7 @@ p<div align="center">
 ## 👋 About Me
 
 Hey there!  
-I'm **Suraj Pandit**, a passionate web developer who loves building beautiful and scalable web apps using JavaScript, Next.js, React, and Tailwind CSS. I thrive on clean UI, robust code, and learning new tech every day.
+I'm **Suraj Pandit**, a passionate developer who also loves working with data and aspire to become data analyst currently working with python, SQL, Pandas, Numpy and soon.
 
 - 🧑‍💻 Always shipping new ideas and features
 - 🚀 Fast learner and Open Source contributor
